@@ -1,10 +1,10 @@
 ## 🙋 Welcome to ZhangzrJerry
 
 ### Projects
-- Image-Based 3D Modeling, Ind from ![深蓝学院](shenlanxueyuan.com), 2023
-- Intelligent Book Recommendation and User Interest Analysis System Based onFactorization Machines, Col with ![Yue Peng](https://github.com/polaron-andre) from ![2023犀牛鸟中学科学人才培养计划](https://cloud.tencent.com/developer/article/2308943), 2023
-- League of Legends Master Prediction, Ind from ![飞桨AI Studio星河社区](aistudio.baidu.com), 2022
-- FRC data collection software based on WeChat miniprogram, Col with ![Yue Peng](https://github.com/polaron-andre), 2022
+- Image-Based 3D Modeling, Ind from [深蓝学院](shenlanxueyuan.com), 2023
+- Intelligent Book Recommendation and User Interest Analysis System Based onFactorization Machines, Col with [Yue Peng](https://github.com/polaron-andre) from [2023犀牛鸟中学科学人才培养计划](https://cloud.tencent.com/developer/article/2308943), 2023
+- League of Legends Master Prediction, Ind from [飞桨AI Studio星河社区](aistudio.baidu.com), 2022
+- FRC data collection software based on WeChat miniprogram, Col with [Yue Peng](https://github.com/polaron-andre), 2022
 
 ### FRC Involvement
 I have been captain in team 8011 aka Guangzhou Wayi and built up team 8811 in Guangzhou No.2 High School with another alumni in 2021. We are proud of the awards we won with our own joint efforts:
