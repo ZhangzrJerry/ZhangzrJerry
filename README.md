@@ -8,7 +8,7 @@
 
 ### FRC Involvement
 I have been captain of team [8011](https://www.thebluealliance.com/team/8011) aka Guangzhou Wayi and built up team [8811](https://www.thebluealliance.com/team/8811) in Guangzhou No.2 High School with another alumni in 2021. We are proud of the awards we won with our joint efforts:
-- **Champion**, 8011, [WE RoboStar](https://www.thebluealliance.com/event/2020gzrs), 2020
+- **Champion**, 8011, [WE RoboStar 2020](https://www.thebluealliance.com/event/2020gzrs)
 - **Rookie Game Changer**, 8011, INFINITE RECHARGE At Home Challenge, 2021
 - **Excellence in Engineering Award**, 8011, Nanjing Regional, 2022
 - **The 3rd Prize**, 8811, FRC Off-season China, 2023
