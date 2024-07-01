@@ -11,9 +11,10 @@ I have been captain of team [8011](https://www.thebluealliance.com/team/8011) ak
 - **Rookie Game Changer**, 8011, [INFINITE RECHARGE At Home Challenge 2021](https://www.thebluealliance.com/event/2021irhmg)
 - **Excellence in Engineering Award**, 8011, [Nanjing Regional 2022](https://www.thebluealliance.com/event/2022zhha)
 - **The 3rd Prize**, 8811, [FRC Off-season China 2023](https://www.thebluealliance.com/event/2023cnsh)
+- ****, 6399, []()
 
 ### Education Experience
-- 
+- 2024-2028, **The Hong Kong University of Science and Technology**, Engineering with an Extended Major in Artificial Intelligence
 
 ### Other Experience
 - Image-Based 3D Modeling, Ind from [深蓝学院](shenlanxueyuan.com), 2023
