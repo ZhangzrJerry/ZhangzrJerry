@@ -6,9 +6,9 @@
 - FRC data collection software based on WeChat miniprogram, Col with [Yue Peng](https://github.com/polaron-andre), 2022
 
 ### FRC Involvement
-I have been captain of team [8011](https://www.thebluealliance.com/team/8011) aka Guangzhou Wayi and built up team [8811](https://www.thebluealliance.com/team/8811) in Guangzhou No.2 High School with another alumni in 2021. We are proud of the awards we won with our joint efforts:
-- **Champion**, 8011, [WE RoboStar 2020](https://www.thebluealliance.com/event/2020gzrs)
-- **Rookie Game Changer**, 8011, [INFINITE RECHARGE At Home Challenge 2021](https://www.thebluealliance.com/event/2021irhmg)
+I was the captain of team [8011](https://www.thebluealliance.com/team/8011) aka Guangzhou Wayi. Under my leadership, our team won a Championship and achieved the Rookie Game Changer Award in two seasons. Furthermore, established another team [8811](https://www.thebluealliance.com/team/8811) in Guangzhou No.2 High School with Andre Peng in 2021. I held 50 weekly studies and 3 holiday training programs for team 8811 and raised over $13,000 for sponsorship by contacting FIRST, our senior high school and three private technological companies. I am proud of the awards I won with my very teamates:
+- **Championship**, 8011, [WE RoboStar 2020](https://www.thebluealliance.com/event/2020gzrs)
+- **Rookie Game Changer Award**, 8011, [INFINITE RECHARGE At Home Challenge 2021](https://www.thebluealliance.com/event/2021irhmg)
 - **Excellence in Engineering Award**, 8011, [Nanjing Regional 2022](https://www.thebluealliance.com/event/2022zhha)
 - **The 3rd Prize**, 8811, [FRC Off-season China 2023](https://www.thebluealliance.com/event/2023cnsh)
 - ****, 6399, []()
