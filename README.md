@@ -15,7 +15,8 @@ I have been captain of team [8011](https://www.thebluealliance.com/team/8011) ak
 
 ### Education Experience
 - 2024-2028, **The Hong Kong University of Science and Technology**, Engineering with an Extended Major in Artificial Intelligence
-- 2021-2024, **Guangzhou No.2 Hish School**
+- 2021-2024, **Guangzhou No.2 High School**, The Chinese National Senior High School Curriculum Plans and Standards
+- 2018-2021, **广州市越秀区二中应元学校**, The Chinese National Junior High School Curriculum Plans and Standards
 
 ### Other Experience
 - Image-Based 3D Modeling, Ind from [深蓝学院](shenlanxueyuan.com), 2023
