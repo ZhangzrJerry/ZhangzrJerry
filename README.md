@@ -20,3 +20,6 @@ I was the captain of team [8011](https://www.thebluealliance.com/team/8011) aka 
 
 ### Other Experience
 - Image-Based 3D Modeling, Ind from [深蓝学院](shenlanxueyuan.com), 2023
+
+###
+![ZhangzrJerry's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangzrJerry&layout=compact)
