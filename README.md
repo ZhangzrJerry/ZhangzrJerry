@@ -11,7 +11,7 @@ I was the captain of team [8011](https://www.thebluealliance.com/team/8011) aka 
 - **Rookie Game Changer Award**, 8011, [INFINITE RECHARGE At Home Challenge 2021](https://www.thebluealliance.com/event/2021irhmg)
 - **Rank 18**, 8011, [Robotics Championship China 2021](https://www.thebluealliance.com/event/2021zhrcc)
 - **Excellence in Engineering Award**, 8011, [Nanjing Regional 2022](https://www.thebluealliance.com/event/2022zhha)
-- **The 3rd Prize**, 8811(mentor), [FRC Off-season China 2023](https://www.thebluealliance.com/event/2023cnsh)
+- **3rd Prize**, 8811(mentor), [FRC Off-season China 2023](https://www.thebluealliance.com/event/2023cnsh)
 - ****, 6399(mentor), []()
 
 ### Education Experience
