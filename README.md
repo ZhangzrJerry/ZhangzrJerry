@@ -14,7 +14,7 @@ I was the captain of team [8011](https://www.thebluealliance.com/team/8011) aka 
 - **3rd Prize**, 8811(mentor), [FRC Off-season China 2023](https://www.thebluealliance.com/event/2023cnsh)
 - ****, 6399(mentor), [FRC Off-season China 2024]()
 
-<table align="center" border="0">
+<table align="center" border="0"  cellspacing="0" cellpadding="0">
     <tbody align="center" valign="center">
         <tr>
             <td width=20%>
