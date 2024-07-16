@@ -14,6 +14,28 @@ I was the captain of team [8011](https://www.thebluealliance.com/team/8011) aka 
 - **3rd Prize**, 8811(mentor), [FRC Off-season China 2023](https://www.thebluealliance.com/event/2023cnsh)
 - ****, 6399(mentor), []()
 
+<table align="center">
+    <tbody align="center" valign="center">
+        <tr>
+            <td width=20%>
+                <image src="images/FRC-2023-1080x1080.jpg">
+            </td>
+            <td width = 20%>
+                <image src="images/FRC-2023-1080x1080.jpg">
+            </td>
+            <td width=20%>
+                <image src="images/FRC-2023-1080x1080.jpg">
+            </td>
+            <td width=20%>
+                <image src="images/FRC-2023-1080x1080.jpg">
+            </td>
+            <td width=20%>
+                <image src="images/FRC-2024-temp.jpg">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### Education Experience
 - 2024-2028, **The Hong Kong University of Science and Technology**, Engineering with an Extended Major in Artificial Intelligence
 - 2021-2024, **Guangzhou No.2 High School**, The Chinese National Senior High School Curriculum Plans and Standards
@@ -22,5 +44,14 @@ I was the captain of team [8011](https://www.thebluealliance.com/team/8011) aka 
 ### Other Experience
 - Image-Based 3D Modeling, Ind from [深蓝学院](shenlanxueyuan.com), 2023
 
-###
-![ZhangzrJerry's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangzrJerry&layout=compact)
+<table>
+    <thead>
+        <tr width=50%>
+            <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangzrJerry&layout=compact">
+        </tr>
+        <tr width=50%>
+            <image src="">
+        </tr>
+    </thead>
+</table>
+
