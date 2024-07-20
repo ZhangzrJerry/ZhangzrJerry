@@ -15,11 +15,11 @@ I was the captain of team [8011](https://www.thebluealliance.com/team/8011) aka 
 - ****, 6399(mentor), [FRC Off-season China 2024]()
 
 <div align=center valign=center>
-    <image src="images/FRC-2020-1080x1080.jpg" width=19%>
-    <image src="images/FRC-2021-1080x1080.jpg" width=19%>
-    <image src="images/FRC-2022-1080x1080.jpg" width=19%>
-    <image src="images/FRC-2023-1080x1080.jpg" width=19%>
-    <image src="images/FRC-2024-temp.jpg" width=19%>
+    <image src="images/FRC-2020-1080x1080.jpg" width=19% style="border-radius:2%">
+    <image src="images/FRC-2021-1080x1080.jpg" width=19% style="border-radius:2%">
+    <image src="images/FRC-2022-1080x1080.jpg" width=19% style="border-radius:2%">
+    <image src="images/FRC-2023-1080x1080.jpg" width=19% style="border-radius:2%">
+    <image src="images/FRC-2024-temp.jpg" width=19% style="border-radius:2%">
 </div>
 
 ### Education Experience
