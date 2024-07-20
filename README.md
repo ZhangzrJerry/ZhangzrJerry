@@ -14,6 +14,7 @@ I was the captain of team [8011](https://www.thebluealliance.com/team/8011) aka 
 - **3rd Prize**, 8811(mentor), [FRC Off-season China 2023](https://www.thebluealliance.com/event/2023cnsh)
 - ****, 6399(mentor), [FRC Off-season China 2024]()
 
+<<<<<<< HEAD
 <table align="center" border="0"  cellspacing="0" cellpadding="0" width=90%>
     <tbody align="center" valign="center">
         <tr>
@@ -42,6 +43,15 @@ I was the captain of team [8011](https://www.thebluealliance.com/team/8011) aka 
         </tr>
     </tbody>
 </table>
+=======
+<div align=center valign=center>
+    <image src="images/FRC-2020-1080x1080.jpg" width=19%>
+    <image src="images/FRC-2021-1080x1080.jpg" width=19%>
+    <image src="images/FRC-2022-1080x1080.jpg" width=19%>
+    <image src="images/FRC-2023-1080x1080.jpg" width=19%>
+    <image src="images/FRC-2024-temp.jpg" width=19%>
+</div>
+>>>>>>> parent of 6896e13 (.)
 
 ### Education Experience
 - 2024-2028, **The Hong Kong University of Science and Technology**, Engineering with an Extended Major in Artificial Intelligence
