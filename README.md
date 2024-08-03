@@ -12,7 +12,7 @@ I was the captain of team [8011](https://www.thebluealliance.com/team/8011) aka 
 - **Rank 18**, 8011, [Robotics Championship China 2021](https://www.thebluealliance.com/event/2021zhrcc)
 - **Excellence in Engineering Award**, 8011, [Nanjing Regional 2022](https://www.thebluealliance.com/event/2022zhha)
 - **3rd Prize**, 8811(mentor), [FRC Off-season China 2023](https://www.thebluealliance.com/event/2023cnsh)
-- ****, 6399(mentor), [FRC Off-season China 2024]()
+- ****, 6399(mentor, event number: 9975), [FRC Off-season China 2024]()
 
 <div align=center valign=center>
     <image src="images/FRC-2020-1080x1080.jpg" width=19% style="border-radius:2%">
