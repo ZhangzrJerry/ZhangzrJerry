@@ -14,8 +14,6 @@
         <link rel="prev" href="../resume/">
       
       
-        <link rel="next" href="../robotics/">
-      
       
       <link rel="icon" href="../img/favicon.ico">
       <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.31">
@@ -47,6 +45,8 @@
         <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
       
     
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
     
     <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -81,6 +81,11 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
+      
+        
+        <a href="#projects" class="md-skip">
+          Skip to content
+        </a>
       
     </div>
     <div data-md-component="announce">
@@ -126,9 +131,15 @@
     
     
     
-    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-hidden="true"  type="radio" name="__palette" id="__palette_0">
     
-      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
       </label>
     
@@ -136,7 +147,7 @@
     
     
     
-    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
     
       <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
@@ -207,23 +218,6 @@
     
   
   Projects
-
-      </a>
-    </li>
-  
-
-      
-        
-  
-  
-  
-    <li class="md-tabs__item">
-      <a href="../robotics/" class="md-tabs__link">
-        
-  
-    
-  
-  Robotics
 
       </a>
     </li>
@@ -323,6 +317,19 @@
       <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
       
       
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Projects
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
         
@@ -334,26 +341,43 @@
 
       </a>
       
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../robotics/" class="md-nav__link">
         
-  
-  <span class="md-ellipsis">
-    Robotics
-  </span>
-  
 
-      </a>
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#robotics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Robotics
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#practice" class="md-nav__link">
+    <span class="md-ellipsis">
+      Practice
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -373,9 +397,146 @@
                   
 
 
-  <h1>Projects</h1>
+<h1 id="projects">Projects</h1>
+<h2 id="robotics">Robotics</h2>
+<div style="display:flex">
+    <div class="card">
+        <div class="card-image">
+            <a class="glightbox" href="../img/projects/frc-yuan-bot.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img src="../img/projects/frc-yuan-bot.png" class="card-image"></a>
+        </div>
+        <div class="category">
+        RAPID REACT
+        </div>
+        <div class="heading">
+            Yuan Bot
+            <div class="sign">
+                <div class="author">
+                    By
+                    <span class="name">
+                        FRC8811
+                    </span>
+                </div>
+                <div class="date">
+                    Aug. 2023
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-image">
+            <a class="glightbox" href="../img/projects/frc-kylin-2022.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img src="../img/projects/frc-kylin-2022.png" class="card-image"></a>
+        </div>
+        <div class="category">
+        RAPID REACT
+        </div>
+        <div class="heading">
+            Kylin 2022
+            <div class="sign">
+                <div class="author">
+                    By
+                    <span class="name">
+                        FRC8011
+                    </span>
+                </div>
+                <div class="date">
+                    Aug. 2023
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-image">
+            <a class="glightbox" href="../img/projects/frc-kylin-2021.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img src="../img/projects/frc-kylin-2021.png" class="card-image"></a>
+        </div>
+        <div class="category">
+        INFINITE RECHARGE
+        </div>
+        <div class="heading">
+            Kylin 2021
+            <div class="sign">
+                <div class="author">
+                    By
+                    <span class="name">
+                        FRC8011
+                    </span>
+                </div>
+                <div class="date">
+                    Jun. 2021
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-image">
+            <a class="glightbox" href="../img/projects/frc-kylin-2020.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img src="../img/projects/frc-kylin-2020.png" class="card-image"></a>
+        </div>
+        <div class="category">
+        INFINITE RECHARGE
+        </div>
+        <div class="heading">
+            Kylin 2020
+            <div class="sign">
+                <div class="author">
+                    By
+                    <span class="name">
+                        FRC8011
+                    </span>
+                </div>
+                <div class="date">
+                    Dec. 2020
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
-
+<h2 id="practice">Practice</h2>
+<div style="display:flex">
+    <div class="card">
+        <div class="card-image">
+            <a class="glightbox" href="../img/projects/practice-swerve-controller.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img src="../img/projects/practice-swerve-controller.png" class="card-image"></a>
+        </div>
+        <div class="category">
+        Electrical
+        </div>
+        <div class="heading">
+            Dual Motor Drive Board
+            <div class="sign">
+                <div class="author">
+                    By
+                    <span class="name">
+                        ZhangzrJerry
+                    </span>
+                </div>
+                <div class="date">
+                    Oct. 2022
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-image">
+            <a class="glightbox" href="../img/projects/practice-frc-scouting.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img src="../img/projects/practice-frc-scouting.png" class="card-image"></a>
+        </div>
+        <div class="category">
+        Software
+        </div>
+        <div class="heading">
+            FRC Data Collection Software
+            <div class="sign">
+                <div class="author">
+                    With
+                    <span class="name">
+                        Yue PENG
+                    </span>
+                </div>
+                <div class="date">
+                    Apr. 2022
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 
@@ -445,7 +606,7 @@
     </div>
     
     
-    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.sections", "navigation.top", "navigation.path", "toc.integrate", "search.suggest", "search.highlight", "content.tabs.link", "content.code.annotation", "content.code.copy"], "search": "../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.instant", "navigation.instant.prefetch", "navigation.tabs", "navigation.tabs.sticky", "navigation.sections", "navigation.top", "navigation.path", "toc.integrate", "search.suggest", "search.highlight", "content.tabs.link", "content.code.annotation", "content.code.copy", "content.image.lightbox", "content.card"], "search": "../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
       <script src="../assets/javascripts/bundle.fe8b6f2b.min.js"></script>

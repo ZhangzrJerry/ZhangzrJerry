@@ -7,13 +7,16 @@ nav:
   - Homepage: index.md
   - Resume: resume.md
   - Projects: projects.md
-  - Robotics: robotics.md
 
 theme:
   name: material
   favicon: img/favicon.ico
   logo: img/favicon.ico
+  # font:
+  #   text: Times New Roman
   features:
+    - navigation.instant
+    - navigation.instant.prefetch
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
@@ -25,8 +28,11 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.image.lightbox
+    - content.card
   language: en
   palette:
+    - primary: indigo
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
@@ -38,9 +44,14 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+extra_css:
+  - stylesheets/extra.css
+
 markdown_extensions: 
   - attr_list
   - md_in_html
+  - codehilite:
+      guess_lang: false
 
 extra:
     social:
