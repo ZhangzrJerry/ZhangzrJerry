@@ -1,6 +1,18 @@
 site_name: ZhangzrJerry
+site_description: "Jerry's personal website"
+
+plugins:
+  - glightbox
+nav:
+  - Homepage: index.md
+  - Resume: resume.md
+  - Projects: projects.md
+  - Robotics: robotics.md
+
 theme:
   name: material
+  favicon: img/favicon.ico
+  logo: img/favicon.ico
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -25,3 +37,13 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+markdown_extensions: 
+  - attr_list
+  - md_in_html
+
+extra:
+    social:
+        - icon: fontawesome/brands/github
+          link: https://github.com/ZhangzrJerry
+
