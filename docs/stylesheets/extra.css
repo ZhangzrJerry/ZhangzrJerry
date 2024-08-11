@@ -47,7 +47,7 @@
 .sign {
   color: gray;
   font-weight: 400;
-  font-size: 11px;
+  font-size: 0.57em;
   padding-top: 4px;
   display: flex;
 }

@@ -7,11 +7,17 @@ nav:
   - Homepage: index.md
   - Resume: resume.md
   - Projects: 
-    - Projects: projects.md
+    - Overview: projects.md
     - Robotics:
-      - Project1: projects/s.md
+      - Yuan Bot: projects/yuan-bot.md
+      - Kylin 2022: projects/kylin-2022.md
+      - Kylin 2021: projects/kylin-2021.md
+      - Kylin 2020: projects/kylin-2020.md
     - Practice: 
-      - Project2: projects/p.md
+      - Intelligent Book Recommendation System: projects/intelligent-book-recommendation-system.md
+      - Dual Motor Drive Board: projects/dual-motor-drive-board.md
+      - Knowledge Graph Construction: projects/knowledge-graph-construction.md
+      - FRC Data Collection Software: projects/frc-data-collection-software.md
 
 theme:
   name: material
@@ -22,9 +28,9 @@ theme:
     - navigation.instant.prefetch
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.sections
     - navigation.top
     - navigation.path
+    - navigation.tracking
     - toc.integrate
     - search.suggest
     - search.highlight
