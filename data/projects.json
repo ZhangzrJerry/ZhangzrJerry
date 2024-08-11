@@ -1,0 +1,70 @@
+{
+    "robotics": [
+        {
+            "image": "../img/projects/frc-yuan-bot.png",
+            "category": "RAPID REACT",
+            "heading": "Yuan Bot",
+            "prefix": "By",
+            "author": "FRC8811",
+            "date": "Aug. 2023"
+        },
+        {
+            "image": "../img/projects/frc-kylin-2022.png",
+            "category": "RAPID REACT",
+            "heading": "Kylin 2022",
+            "prefix": "By",
+            "author": "FRC8011",
+            "date": "Aug. 2023"
+        },
+        {
+            "image": "../img/projects/frc-kylin-2021.png",
+            "category": "INFINITE RECHARGE",
+            "heading": "Kylin 2021",
+            "prefix": "By",
+            "author": "FRC8011",
+            "date": "Jun. 2021"
+        },
+        {
+            "image": "../img/projects/frc-kylin-2020.png",
+            "category": "INFINITE RECHARGE",
+            "heading": "Kylin 2020",
+            "prefix": "By",
+            "author": "FRC8011",
+            "date": "Dec. 2020"
+        }
+    ],
+    "practice": [
+        {
+            "image": "../img/projects/practice-rhino-bird.png",
+            "category": "Rhino Bird",
+            "heading": "Intelligent Book Recommendation System",
+            "prefix": "With",
+            "author": "Yue PENG",
+            "date": "Oct. 2023"
+        },
+        {
+            "image": "../img/projects/practice-swerve-controller.png",
+            "category": "Swerve Controller",
+            "heading": "Dual Motor Drive Board",
+            "prefix": "By",
+            "author": "ZhangzrJerry",
+            "date": "Oct. 2022"
+        },
+        {
+            "image": "../img/projects/practice-knowledge-graph.png",
+            "category": "YingCai Middle School",
+            "heading": "Knowledge Graph Construction",
+            "prefix": "In",
+            "author": "SCUT",
+            "date": "Aug. 2022"
+        },
+        {
+            "image": "../img/projects/practice-frc-scouting.png",
+            "category": "INFINITE RECHARGE",
+            "heading": "FRC Data Collection Software",
+            "prefix": "With",
+            "author": "Yue PENG",
+            "date": "Apr. 2022"
+        }
+    ]
+}
