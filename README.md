@@ -1,6 +1,6 @@
 ## 🙋 Welcome to ZhangzrJerry
 
-Hi! It's Zirui Zhang here~ Welcome to visit my site: [zhangzrjerry.github.io](zhangzrjerry.github.io)
+Hi! It's Zirui Zhang here~ Welcome to visit my site: [zhangzrjerry.github.io](https://zhangzrjerry.github.io)
 
 <table>
     <thead>
