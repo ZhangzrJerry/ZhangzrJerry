@@ -2,10 +2,10 @@
 
 ## Robotics
 
-<div style="display:flex;" id="div-robotics">
+<div class="projects-container" id="div-robotics">
 </div>
 
 ## Practice
 
-<div style="display:flex;" id="div-practice">
+<div class="projects-container" id="div-practice">
 </div>
