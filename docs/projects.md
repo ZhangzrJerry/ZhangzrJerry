@@ -1,11 +1,15 @@
 # Projects
 
-## Robotics
+## Overview
 
-<div class="projects-container" id="div-robotics">
+<div class="projects-container" id="overview-grid">
 </div>
 
-## Practice
+## Timeline
 
-<div class="projects-container" id="div-practice">
-</div>
+
+<h3>xxx</h3>
+
+<span>
+### a
+</span>

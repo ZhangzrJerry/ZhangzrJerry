@@ -1,78 +1,99 @@
 {
-    "robotics": [
-        {
-            "image": "../img/projects/frc-yuan-bot.png",
-            "category": "RAPID REACT",
-            "heading": "Yuan Bot",
-            "prefix": "By",
-            "author": "FRC8811",
-            "date": "Aug. 2023",
-            "description": "Yuan Bot is a robot designed for the 2023 FIRST Robotics Competition game RAPID REACT. It is equipped with a 6-wheel drive system and a 4-bar linkage mechanism for shooting balls."
-        },
-        {
-            "image": "../img/projects/frc-kylin-2022.png",
-            "category": "RAPID REACT",
-            "heading": "Kylin 2022",
-            "prefix": "By",
-            "author": "FRC8011",
-            "date": "Aug. 2023",
-            "description": "Yuan Bot is a robot designed for the 2023 FIRST Robotics Competition game RAPID REACT. It is equipped with a 6-wheel drive system and a 4-bar linkage mechanism for shooting balls."
-        },
-        {
-            "image": "../img/projects/frc-kylin-2021.png",
-            "category": "INFINITE RECHARGE",
-            "heading": "Kylin 2021",
-            "prefix": "By",
-            "author": "FRC8011",
-            "date": "Jun. 2021",
-            "description": "Yuan Bot is a robot designed for the 2023 FIRST Robotics Competition game RAPID REACT. It is equipped with a 6-wheel drive system and a 4-bar linkage mechanism for shooting balls."
-        },
-        {
-            "image": "../img/projects/frc-kylin-2020.png",
-            "category": "INFINITE RECHARGE",
-            "heading": "Kylin 2020",
-            "prefix": "By",
-            "author": "FRC8011",
-            "date": "Dec. 2020",
-            "description": "Yuan Bot is a robot designed for the 2023 FIRST Robotics Competition game RAPID REACT. It is equipped with a 6-wheel drive system and a 4-bar linkage mechanism for shooting balls."
-        }
-    ],
     "practice": [
         {
             "image": "../img/projects/practice-rhino-bird.png",
-            "category": "Rhino Bird",
+            "brief": "Rhino Bird",
+            "category": "",
             "heading": "Intelligent Book Recommendation System",
             "prefix": "With",
             "author": "Yue PENG",
             "date": "Oct. 2023",
-            "description": "Yuan Bot is a robot designed for the 2023 FIRST Robotics Competition game RAPID REACT. It is equipped with a 6-wheel drive system and a 4-bar linkage mechanism for shooting balls."
+            "time": 202310,
+            "introduction": ""
         },
         {
             "image": "../img/projects/practice-swerve-controller.png",
-            "category": "Swerve Controller",
+            "brief": "Swerve Controller",
+            "category": "",
             "heading": "Dual Motor Drive Board",
             "prefix": "By",
             "author": "ZhangzrJerry",
             "date": "Oct. 2022",
-            "description": ""
+            "time": 202210,
+            "introduction": ""
         },
         {
             "image": "../img/projects/practice-knowledge-graph.png",
-            "category": "YingCai Middle School",
+            "brief": "YingCai Middle School",
+            "category": "",
             "heading": "Knowledge Graph Construction",
             "prefix": "In",
             "author": "SCUT",
             "date": "Aug. 2022",
-            "description": "Yuan Bot is a robot designed for the 2023 FIRST Robotics Competition game RAPID REACT. It is equipped with a 6-wheel drive system and a 4-bar linkage mechanism for shooting balls."
+            "time": 202208,
+            "introduction": ""
         },
         {
             "image": "../img/projects/practice-frc-scouting.png",
-            "category": "INFINITE RECHARGE",
+            "brief": "INFINITE RECHARGE",
+            "category": "",
             "heading": "FRC Data Collection Software",
             "prefix": "With",
             "author": "Yue PENG",
             "date": "Apr. 2022",
-            "description": "Yuan Bot is a robot designed for the 2023 FIRST Robotics Competition game RAPID REACT. It is equipped with a 6-wheel drive system and a 4-bar linkage mechanism for shooting balls."
+            "time": 202204,
+            "introduction": ""
+        }
+    ],
+    "robotics": [
+        {
+            "image": "../img/projects/frc-yuan-bot.png",
+            "brief": "RAPID REACT",
+            "category": "",
+            "heading": "Yuan Bot",
+            "prefix": "By",
+            "author": "FRC8811",
+            "date": "Aug. 2023",
+            "time": 202308,
+            "introduction": "Yuan Bot is designed",
+            "description": [
+                "<span>",
+                "### Yuan Bot",
+                "</span>"
+            ]
+        },
+        {
+            "image": "../img/projects/frc-kylin-2022.png",
+            "brief": "RAPID REACT",
+            "category": "",
+            "heading": "Kylin 2022",
+            "prefix": "By",
+            "author": "FRC8011",
+            "date": "Aug. 2023",
+            "time": 202308,
+            "introduction": ""
+        },
+        {
+            "image": "../img/projects/frc-kylin-2021.png",
+            "brief": "INFINITE RECHARGE",
+            "category": "",
+            "heading": "Kylin 2021",
+            "prefix": "By",
+            "author": "FRC8011",
+            "date": "Jun. 2021",
+            "time": 202106,
+            "introduction": ""
+        },
+        {
+            "image": "../img/projects/frc-kylin-2020.png",
+            "brief": "INFINITE RECHARGE",
+            "category": "",
+            "heading": "Kylin 2020",
+            "prefix": "By",
+            "author": "FRC8011",
+            "date": "Dec. 2020",
+            "time": 202012,
+            "introduction": ""
         }
     ]
 }
