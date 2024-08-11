@@ -6,7 +6,12 @@ plugins:
 nav:
   - Homepage: index.md
   - Resume: resume.md
-  - Projects: projects.md
+  - Projects: 
+    - Projects: projects.md
+    - Robotics:
+      - Project1: projects/s.md
+    - Practice: 
+      - Project2: projects/p.md
 
 theme:
   name: material

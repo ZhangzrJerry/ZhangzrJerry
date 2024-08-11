@@ -64,5 +64,14 @@ function render() {
                 </div>
             `;
         }
+
+        // fullfill the content with details
+        element = document.getElementById('projects-content');
+        for (let i = 0; i < name.length; i++) {
+            element.innerHTML += `
+                <h3>1</h3>
+            `;
+        }
+        element.innerHTML = element.value.replace("<h3>", "### ").replace("</h3>", "");
     });
 }
