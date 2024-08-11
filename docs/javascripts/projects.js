@@ -35,6 +35,15 @@ window.onload = function () {
                                 </div>
                             </div>
                         </div>
+                        <div class="card__content">
+                            <p class="card__title">
+                            ${displays[i][j].heading}
+                            </p>
+                            <p class="card__description">
+                            ${displays[i][j].description}
+                            </p>
+                            <img src=${displays[i][j].image} class="card__image">
+                        </div>
                     </div>
                 `;
             }
