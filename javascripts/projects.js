@@ -1,11 +1,11 @@
 window.onload = function () {
     fetch("../data/projects.json").then(response => response.json()).then(res => {
-        data = res
+        data = res;
+        viewmoreidx = -1;
     });
 }
 
 if (window.location.href.includes('projects')) {
-    viewmoreidx = -1;
     setInterval(clock, 1000);
     document.getElementById('viewmore').addEventListener('scroll', () => {
         document.getElementById('viewmore-exit').style.top = (document.getElementById('viewmore').scrollTop) + 'px';
