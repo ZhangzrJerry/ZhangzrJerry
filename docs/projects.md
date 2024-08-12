@@ -4,5 +4,4 @@
 </div>
 
 <div class="viewmore-container" id="viewmore">
-    aljfa;lskjf
 </div>
