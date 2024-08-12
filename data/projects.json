@@ -1,16 +1,16 @@
 [
     {
-        "image": "intelligent-book-recommendation-system/intelligent-book-recommendation-system.png",
+        "image": "../img/projects/book-recommendation-system.png",
         "brief": "Rhino Bird",
-        "heading": "Intelligent Book Recommendation System",
+        "heading": "Book Recommendation System",
         "prefix": "With",
         "author": "Yue PENG",
         "date": "Oct. 2023",
         "introduction": "",
-        "link": "intelligent-book-recommendation-system"
+        "link": "book-recommendation-system"
     },
     {
-        "image": "yuan-bot/yuan-bot.png",
+        "image": "../img/projects/yuan-bot.png",
         "brief": "RAPID REACT",
         "heading": "Yuan Bot",
         "prefix": "By",
@@ -20,7 +20,7 @@
         "link": "yuan-bot"
     },
     {
-        "image": "kylin-2022/kylin-2022.png",
+        "image": "../img/projects/kylin-2022.png",
         "brief": "RAPID REACT",
         "heading": "Kylin 2022",
         "prefix": "By",
@@ -30,27 +30,27 @@
         "link": "kylin-2022"
     },
     {
-        "image": "dual-motor-drive-board/dual-motor-drive-board.png",
-        "brief": "Swerve Controller",
-        "heading": "Dual Motor Drive Board",
+        "image": "../img/projects/swerve-controller.png",
+        "brief": "Motor Drive Board",
+        "heading": "Swerve Controller",
         "prefix": "By",
         "author": "ZhangzrJerry",
         "date": "Oct. 2022",
-        "introduction": "",
-        "link": "dual-motor-drive-board"
+        "introduction": "It's quite a long time after I finish it to the time I write description for it. I've lost most of memories about it while there are docs for applying copyright for frc-data-scollection-software and engineering journal for kylin-2020 and kylin-2021",
+        "link": ""
     },
     {
-        "image": "knowledge-graph-construction/knowledge-graph-construction.png",
+        "image": "../img/projects/knowledge-graph-construction.png",
         "brief": "YingCai Middle School",
         "heading": "Knowledge Graph Construction",
         "prefix": "In",
         "author": "SCUT",
         "date": "Aug. 2022",
         "introduction": "",
-        "link": "knowledge-graph-construction"
+        "link": ""
     },
     {
-        "image": "frc-data-collection-software/frc-data-collection-software.png",
+        "image": "../img/projects/frc-data-collection-software.png",
         "brief": "RAPID REACT",
         "heading": "FRC Data Collection Software",
         "prefix": "With",
@@ -60,7 +60,7 @@
         "link": "frc-data-collection-software"
     },
     {
-        "image": "kylin-2021/kylin-2021.png",
+        "image": "../img/projects/kylin-2021.png",
         "brief": "INFINITE RECHARGE",
         "heading": "Kylin 2021",
         "prefix": "By",
@@ -70,7 +70,7 @@
         "link": "kylin-2021"
     },
     {
-        "image": "kylin-2020/kylin-2020.png",
+        "image": "../img/projects/kylin-2020.png",
         "brief": "INFINITE RECHARGE",
         "heading": "Kylin 2020",
         "prefix": "By",

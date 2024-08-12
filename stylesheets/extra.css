@@ -4,6 +4,9 @@
   background: white;
   padding: .4em;
   border-radius: 10px;
+  margin-left: 7px;
+  margin-right: 7px;
+  margin-bottom: 16px;
   transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
 }
 
@@ -36,8 +39,7 @@
   font-weight: 670;
   color: rgb(88, 87, 87);
   padding: 1px 7px;
-  /* hyphens: auto;
-    word-break:break-all; */
+  word-break: break-all;
 }
 
 /* .heading:hover {
@@ -71,7 +73,7 @@
 }
 
 .card:hover {
-  transform: rotate(0) scale(1.05);
+  transform: rotate(0) scale(1.1);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
@@ -96,15 +98,15 @@
   text-overflow: ellipsis;
   overflow: hidden;
   padding: 0 7px;
-  word-break: break-all;
 }
 
 .view {
   position: absolute;
-  font: 0.68em "Times New Romans", sans-serif;
+  font: 0.68em "Microsoft yahei", sans-serif;
+  font-size: bold;
   color: rgb(82, 100, 218);
-  right: 0px;
-  bottom: 3px;
+  right: 5.4px;
+  bottom: 3.4px;
 }
 
 .view:hover {
