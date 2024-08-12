@@ -1,4 +1,10 @@
-# Overview
+---
+hide:
+  - navigation
+  - toc
+---
+
+# Projects
 
 <div class="projects-container" id="overview-grid">
 </div>

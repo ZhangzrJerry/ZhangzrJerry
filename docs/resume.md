@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Resume
 
 <div style="text-align:center">
@@ -18,7 +24,7 @@
         <div style="display:flex;">
             <div style="width:50%;text-align:left;">
                 <b> The HONG Kong University of Science and Technology </b>
-                <br> BEng in Computer Engineering
+                <br> BEng
             </div>
             <div style="width:50%;text-align:right;">
                 <b> Hong Kong, China </b>

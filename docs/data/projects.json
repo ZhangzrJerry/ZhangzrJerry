@@ -6,8 +6,9 @@
         "prefix": "With",
         "author": "Yue PENG",
         "date": "Oct. 2023",
-        "introduction": "",
-        "link": "book-recommendation-system"
+        "introduction": [
+            ""
+        ]
     },
     {
         "image": "../img/projects/yuan-bot.png",
@@ -16,8 +17,9 @@
         "prefix": "By",
         "author": "FRC8811",
         "date": "Aug. 2023",
-        "introduction": "Yuan Bot is designed",
-        "link": "yuan-bot"
+        "introduction": [
+            "<p>Yuan Bot is designed</p>"
+        ]
     },
     {
         "image": "../img/projects/kylin-2022.png",
@@ -26,8 +28,9 @@
         "prefix": "By",
         "author": "FRC8011",
         "date": "Aug. 2023",
-        "introduction": "",
-        "link": "kylin-2022"
+        "introduction": [
+            ""
+        ]
     },
     {
         "image": "../img/projects/swerve-controller.png",
@@ -36,8 +39,14 @@
         "prefix": "By",
         "author": "ZhangzrJerry",
         "date": "Oct. 2022",
-        "introduction": "It is design for powering a swerve module which po.<br><br>It.'s quite a long time after I finish it to the time I write description for it. I've lost most of memories about it while there are docs for applying copyright for frc-data-scollection-software and engineering journal for kylin-2020 and kylin-2021.<br><br><br><br><br><br><br>asdfkjlj;la sdfjklja;fljas;ldfkjalsjkdfhlaksdfhlskadjf;sadlkfjas; ldkfja;lskjdf;aslkdjf;as jfsdjaf;l jadsf;ldkasjfd;ljkasl fdkjas;fjkl;asljkfd;klsajf;kljsa;dlfkjaskl;",
-        "link": ""
+        "introduction": [
+            "<p>It is design for powering a swerve module which po.</p>",
+            "<img src='../img/projects/kylin-2022.png' class='viewmore-imgleft'>",
+            "<p>It.'s quite a long time after I finish it to the time I write description for it. I've lost most of memories about it while there are docs for applying copyright for frc-data-scollection-software and engineering journal for kylin-2020 and kylin-2021.  asdfkjlj;la aldjaslkdja;lskjdfl;aksjd slajsd;lkja;lskjdf;askljf;lksja l;kajdfkl;jas;klfdjal;fkj sdfjklja;fljas;ldfkjalsjkdfhlaksdfhlskadjf;sadlkfjas; ldkfja;lskjdf;aslkdjf;as jfsdjaf;l jadsf;ldkasjfd;ljkasl fdkjas;fjkl;asljkfd;klsajf;kljsa;dlfkjaskl;</p>",
+            "<p>It is design for powering a swerve module which po.</p>",
+            "<img src='../img/projects/kylin-2022.png' class='viewmore-imgright'>",
+            "<p>It.'s quite a long time after I finish it to the time I write description for it. I've lost most of memories about it while there are docs for applying copyright for frc-data-scollection-software and engineering journal for kylin-2020 and kylin-2021.  asdfkjlj;la salfkjas;fjas;ljf;la ;lajsd;fklajsf;lkjsa;lfkjsa;lfkj sdfjklja;fljas;ldfkjalsjkdfhlaksdfhlskadjf;sadlkfjas; ldkfja;lskjdf;aslkdjf;as jfsdjaf;l jadsf;ldkasjfd;ljkasl fdkjas;fjkl;asljkfd;klsajf;kljsa;dlfkjaskl;</p>"
+        ]
     },
     {
         "image": "../img/projects/knowledge-graph-construction.png",
@@ -46,8 +55,9 @@
         "prefix": "In",
         "author": "SCUT",
         "date": "Aug. 2022",
-        "introduction": "",
-        "link": ""
+        "introduction": [
+            ""
+        ]
     },
     {
         "image": "../img/projects/frc-data-collection-software.png",
@@ -56,8 +66,9 @@
         "prefix": "With",
         "author": "Yue PENG",
         "date": "Apr. 2022",
-        "introduction": "",
-        "link": "frc-data-collection-software"
+        "introduction": [
+            ""
+        ]
     },
     {
         "image": "../img/projects/kylin-2021.png",
@@ -66,8 +77,9 @@
         "prefix": "By",
         "author": "FRC8011",
         "date": "Jun. 2021",
-        "introduction": "",
-        "link": "kylin-2021"
+        "introduction": [
+            ""
+        ]
     },
     {
         "image": "../img/projects/kylin-2020.png",
@@ -76,7 +88,8 @@
         "prefix": "By",
         "author": "FRC8011",
         "date": "Dec. 2020",
-        "introduction": "",
-        "link": "kylin-2020"
+        "introduction": [
+            ""
+        ]
     }
 ]

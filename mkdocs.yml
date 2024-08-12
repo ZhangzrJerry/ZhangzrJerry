@@ -6,18 +6,7 @@ plugins:
 nav:
   - Homepage: index.md
   - Resume: resume.md
-  - Projects: 
-    - Overview: projects.md
-    - Robotics:
-      - Yuan Bot: projects/yuan-bot.md
-      - Kylin 2022: projects/kylin-2022.md
-      - Kylin 2021: projects/kylin-2021.md
-      - Kylin 2020: projects/kylin-2020.md
-    - Practice: 
-      - Intelligent Book Recommendation System: projects/intelligent-book-recommendation-system.md
-      - Dual Motor Drive Board: projects/dual-motor-drive-board.md
-      - Knowledge Graph Construction: projects/knowledge-graph-construction.md
-      - FRC Data Collection Software: projects/frc-data-collection-software.md
+  - Projects:  projects.md
 
 theme:
   name: material
@@ -31,6 +20,7 @@ theme:
     - navigation.top
     - navigation.path
     - navigation.tracking
+    - navigation.sidebar
     - toc.integrate
     - search.suggest
     - search.highlight
@@ -39,7 +29,6 @@ theme:
     - content.code.copy
     - content.image.lightbox
     - content.card
-
   language: en
   palette:
     - primary: indigo
