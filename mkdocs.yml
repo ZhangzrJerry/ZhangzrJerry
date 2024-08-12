@@ -55,10 +55,12 @@ theme:
         name: Switch to light mode
 
 extra_css:
-  - stylesheets/extra.css
+  - stylesheets/projects.css
+  - stylesheets/sweetalert.css
 
 extra_javascript:
   - javascripts/projects.js
+  - javascripts/sweetalert.js
 
 markdown_extensions:
   - attr_list

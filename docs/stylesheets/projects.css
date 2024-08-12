@@ -17,9 +17,9 @@
   border-radius: 6px 6px 0 0;
 }
 
-/* .card-image:hover {
-  transform: scale(0.98);
-} */
+.card-image :hover {
+  opacity: 0;
+}
 
 .category {
   text-transform: uppercase;
@@ -30,10 +30,6 @@
   word-break: break-all;
 }
 
-/* .category:hover {
-  cursor: pointer;
-} */
-
 .heading {
   font: 1.17em "calibri", sans-serif;
   font-weight: 670;
@@ -41,10 +37,6 @@
   padding: 1px 7px;
   word-break: break-all;
 }
-
-/* .heading:hover {
-  cursor: pointer;
-} */
 
 .sign {
   color: gray;
@@ -83,11 +75,11 @@
   height: 140px;
   width: 178px;
   opacity: 0;
-  background-color: white;
+  background-color: rgb(255, 255, 255);
 }
 
 .card:hover .content {
-  opacity: 0.85;
+  opacity: 0.8;
   transition: opacity 0.5s;
 }
 
@@ -118,4 +110,15 @@
   flex-wrap: wrap;
   justify-content: left;
   margin: 0 auto;
+  width: 100%;
+}
+
+.viewmore-container {
+  display: flex;
+  position: absolute;
+  left: 10%;
+  width: 80%;
+  height: auto;
+  justify-content: center;
+  border: 1px solid rgb(0, 0, 0);
 }

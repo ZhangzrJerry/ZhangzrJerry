@@ -63,6 +63,4 @@ function viewmore(idx) {
         window.location.href = data[idx].link;
         return;
     }
-    window.alert(data[idx].introduction);
-
 }
