@@ -1,7 +1,8 @@
 ## 🙋 Welcome to ZhangzrJerry
 
-Hi! It's Zirui Zhang here~ Welcome to visit my site: [zhangzrjerry.github.io](https://zhangzrjerry.github.io)
+Hi! It's Zirui Zhang here~ I am currently a student at the Hong Kong University of Science and Technology (HKUST), working as a robotics engineer in Next Innovation, and a program mentor for FRC 8214. I am also an FIRST Robotics Competition (FRC) alumnus from 8011, 8811, 6399, 8214.
 
+- Homepage: [zhangzrjerry.github.io](https://zhangzrjerry.github.io)
 - FRC Alumni in 8011, 8811, 6399, 8214
 - HKUST 28' · GZEZ 24'
 
