@@ -4,7 +4,7 @@ Hi! It's Zirui Zhang here~ I am currently a student at the Hong Kong University 
 
 - Homepage: [zhangzrjerry.github.io](https://zhangzrjerry.github.io)
 - FRC Alumni in 8011, 8811, 6399, 8214
-- HKUST 28' · GZEZ 24'
+- HKUST 28' · 广州二中 24'
 
 <a href="https://jhhuang.tech/"><img height="173px" src="https://github-readme-stats.vercel.app/api?username=zhangzrjerry&count_private=true&show_icons=true" /><!-- wi*quL3fcV --><img height="173px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangzrjerry&layout=compact" /></a>
 
