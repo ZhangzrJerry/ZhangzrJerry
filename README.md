@@ -4,7 +4,7 @@ Hi! It's Zirui Zhang here~ I am currently a student at the Hong Kong University 
 
 🏠 Homepage: [zhangzrjerry.github.io](https://zhangzrjerry.github.io)
 
-🧭 [FRC](https://www.firstinspires.org/robotics/frc) Alumni in 8011, 8811, 6399, 8214
+🧭 [FRC](https://www.firstinspires.org/robotics/frc) Alumni in 8011, 8811(founder), 6399, 8214
 
 🎓 [HKUST](https://hkust.edu.hk/)(UG) 28' · [广州二中](https://www.gdgzez.com.cn/)(High School) 24'
 
