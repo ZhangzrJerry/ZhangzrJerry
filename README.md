@@ -6,7 +6,7 @@ Hi! It's Zirui Zhang here~ I am currently a student at the Hong Kong University 
 
 💼 Working in [Next Innovation STEM Center](https://nifornextinnovation.com/)
 
-🧭 [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) Alumni in [FRC 8214](https://www.thebluealliance.com/team/8214), [FRC 6399](https://www.thebluealliance.com/team/6399), [FRC 8811](https://www.thebluealliance.com/team/8811)(founder), [FRC 8011](https://www.thebluealliance.com/team/8011)
+🌎 [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) Alumni in [FRC 8214](https://www.thebluealliance.com/team/8214), [FRC 6399](https://www.thebluealliance.com/team/6399), [FRC 8811](https://www.thebluealliance.com/team/8811)(founder), [FRC 8011](https://www.thebluealliance.com/team/8011)
 
 🎓 [HKUST](https://hkust.edu.hk/)(UG) 28' · [广州二中](https://www.gdgzez.com.cn/)(High School) 24'
 
