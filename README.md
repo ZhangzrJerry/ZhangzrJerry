@@ -1,8 +1,10 @@
 ## 🙋 Welcome to ZhangzrJerry
 
-Hi! I am Zirui Zhang from HKUST (Hong Kong University of Science and Technology). I am currently working as a robotics engineer in Next Innovation STEM Center and a program mentor for FRC 8214. I am also an alumni in FRC (FIRST Robotics Competition) from 8011, 8811, 6399, 8214.
+Hi! I am Zirui Zhang from HKUST (Hong Kong University of Science and Technology). I am currently working in Cheng Kar-Shun Robotics Institute Next Innovation STEM Center. I am also an alumni in FRC (FIRST Robotics Competition) from 8011, 8811, 6399, 8214 (currently a program mentor).
 
-:house: Personal Website [zhangzrjerry.github.io](https://zhangzrjerry.github.io)
+:house: Personal Page [zhangzrjerry.github.io](https://zhangzrjerry.github.io)
+
+:satellite: Research in [Cheng Kar-Shun Robotics Institute](https://ri.hkust.edu.hk/)
 
 :briefcase: Working in [Next Innovation STEM Center](https://nifornextinnovation.com/)
 
