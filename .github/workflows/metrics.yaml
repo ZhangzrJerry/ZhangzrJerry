@@ -34,18 +34,10 @@ jobs:
           plugin_languages_threshold: 2%
           plugin_languages_details: lines, percentage
           plugin_languages_indepth: yes
-          plugin_languages_aliases: 'Python:Ipynb'
+          plugin_languages_aliases: Python:Jupyter Notebook
           commits_authoring: zzhangje, zzhangje@connect.ust.hk
-          plugin_steam: yes
-          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam_achievements_limit: 2
-          plugin_steam_games_limit: 1
-          plugin_steam_playtime_threshold: 2
-          plugin_steam_recent_games_limit: 1
-          plugin_steam_sections: player, most-played
-          plugin_steam_user: 7656119919898138
           config_padding: 0, 8 + 11%
-          config_order: base.header, base.activity+community, languages, steam
+          config_order: base.header, base.activity+community, languages
 
       - name: right
         uses: lowlighter/metrics@latest
