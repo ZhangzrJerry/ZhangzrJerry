@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 0 * * MON"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -30,11 +30,11 @@ jobs:
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_ignored: TeX, CMake
-          plugin_languages_threshold: 2%
+          plugin_languages_ignored: TeX, CMake, HTML
+          plugin_languages_threshold: 1%
           plugin_languages_details: lines, percentage
           plugin_languages_indepth: yes
-          plugin_languages_aliases: Python:Jupyter Notebook
+          plugin_languages_aliases: Jupyter Notebook:Python
           commits_authoring: zzhangje, zzhangje@connect.ust.hk
           config_padding: 0, 8 + 11%
           config_order: base.header, base.activity+community, languages
@@ -51,7 +51,7 @@ jobs:
           base: ""
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
-          plugin_achievements_threshold: B
+          plugin_achievements_threshold: C
           plugin_achievements_limit: 6
           plugin_stargazers: yes
           config_padding: 0, 8 + 11%
