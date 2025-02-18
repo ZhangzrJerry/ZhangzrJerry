@@ -12,6 +12,7 @@ Hi! I am Zirui Zhang from HKUST (Hong Kong University of Science and Technology)
 
 :mortar_board: [HKUST](https://hkust.edu.hk/)(UG) 28' · [广州二中](https://www.gdgzez.com.cn/)(High School) 24'
 
+<br>
 <p align="center">
   <a href="https://zhangzrjerry.github.io">
     <img width="400" align="top" src="./metrics.left.svg" />

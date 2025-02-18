@@ -36,10 +36,8 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_aliases: 'Python:Ipynb'
           commits_authoring: zzhangje, zzhangje@connect.ust.hk
-          plugin_code: yes
-          plugin_code_languages: c++, python
-          plugin_code_load: 400
           plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_achievements_limit: 2
           plugin_steam_games_limit: 1
           plugin_steam_playtime_threshold: 2
@@ -47,7 +45,7 @@ jobs:
           plugin_steam_sections: player, most-played
           plugin_steam_user: 7656119919898138
           config_padding: 0, 8 + 11%
-          config_order: base.header, base.activity+community, languages, code
+          config_order: base.header, base.activity+community, languages, steam
 
       - name: right
         uses: lowlighter/metrics@latest
@@ -56,7 +54,7 @@ jobs:
           filename: metrics.right.svg
 
           # Options
-          user: Matheart
+          user: ZhangzrJerry
           template: classic
           base: ""
           config_timezone: Asia/Shanghai
