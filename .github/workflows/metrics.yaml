@@ -53,9 +53,7 @@ jobs:
           plugin_achievements: yes
           # plugin_achievements_threshold: C
           plugin_achievements_limit: 6
-          plugin_stargazers_map: yes
-          plugin_stargazers_map_legend: yes
-          plugin_stargazers_map_legend_style: circle
-          plugin_stargazers_map_legend_scale: 0.5
+          plugin_stargazers_worldmap: yes
+          plugin_stargazers_worldmap_token: ${{ secrets.METRICS_TOKEN }}
           config_padding: 0, 8 + 11%
           config_order: achievements, stargazers
