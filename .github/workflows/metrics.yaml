@@ -15,29 +15,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: right
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.right.svg
-
-          # Options
-          user: ZhangzrJerry
-          template: classic
-          base: achievements, stargazers
-          config_timezone: Asia/Shanghai
-          plugin_achievements: yes
-          # plugin_achievements_threshold: C
-          plugin_achievements_limit: 6
-          plugin_stargazers_worldmap: yes
-          plugin_stargazers_worldmap_token: ${{ secrets.METRICS_TOKEN }}
-          config_padding: 0, 8 + 11%
-          config_order: achievements, stargazers_worldmap
-
       - name: left
         uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.left.svg
 
@@ -57,3 +37,21 @@ jobs:
           commits_authoring: zzhangje, zzhangje@connect.ust.hk
           config_padding: 0, 8 + 11%
           config_order: base.header, base.activity+community, languages
+          
+      - name: right
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.right.svg
+      
+          # Options
+          user: ZhangzrJerry
+          template: classic
+          base: achievements, stargazers
+          config_timezone: Asia/Shanghai
+          plugin_achievements: yes
+          plugin_achievements_limit: 6
+          plugin_stargazers_worldmap: yes
+          plugin_stargazers_worldmap_token: ${{ secrets.METRICS_TOKEN }}
+          config_padding: 8% 11%
+          config_order: achievements, stargazers_worldmap
