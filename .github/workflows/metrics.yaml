@@ -30,8 +30,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_ignored: TeX, CMake
-          # 我的HTML一般不是模版生成的()还是计入吧hhh
+          plugin_languages_ignored: TeX, CMake, html
           plugin_languages_threshold: 1%
           plugin_languages_details: lines, percentage
           plugin_languages_indepth: yes
@@ -54,6 +53,5 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_limit: 6
-          plugin_stargazers: yes
           config_padding: 0, 8 + 11%
-          config_order: achievements, stargazers
+          config_order: achievements
