@@ -48,10 +48,10 @@ jobs:
           # Options
           user: ZhangzrJerry
           template: classic
-          base: ""
+          base: achievements
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_limit: 6
           config_padding: 0, 8 + 11%
-          config_order: achievements
+          config_order: base.achievements
