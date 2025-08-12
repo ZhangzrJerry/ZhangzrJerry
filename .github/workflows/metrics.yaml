@@ -35,7 +35,7 @@ jobs:
           plugin_languages_details: lines, percentage
           plugin_languages_indepth: yes
           plugin_languages_aliases: Jupyter Notebook:Python
-          commits_authoring: zzhangje, zzhangje@connect.ust.hk
+          commits_authoring: zzhangje, zhangzrjerry@outlook.com
           config_padding: 0, 8 + 11%
           config_order: base.header, base.activity+community, languages
 
