@@ -1,6 +1,6 @@
 ## 🙋 Welcome to ZhangzrJerry
 
-Hi! I am Zirui Zhang from the Hong Kong University of Science and Technology (HKUST). I work at the Cheng Kar-Shun Robotics Institute and am also an alumnus of the FIRST Robotics Competition (FRC). For more details, feel free to visit my website: [zzhangje.vercel.app](https://zzhangje.vercel.app).
+Hi! I am Zirui Zhang from the Hong Kong University of Science and Technology (HKUST). I work at the Cheng Kar-Shun Robotics Institute and am also an alumnus of the FIRST Robotics Competition (FRC). For more details, feel free to visit my website: [zhangzrjerry.github.io](https://zhangzrjerry.github.io).
 
 
 
